@@ -1,7 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33751407/README.md)
-## Hi there 👋
-
-<!--<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a4d68,100:00d9ff&height=220&section=header&text=BATTLEKING%20CYBER&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Securing%20systems%20%7C%20Breaking%20them%20ethically%20%7C%20Building%20AI%20defenders&descSize=16&descAlignY=60&animation=fadeIn" width="100%"/>
 
@@ -163,17 +160,3 @@ Bash subnet calculator: network ID, broadcast, host range and breakdowns.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0a4d68,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
-
-**Battleking-cyber/Battleking-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
